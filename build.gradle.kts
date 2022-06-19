@@ -71,7 +71,7 @@ dependencies {
   implementation("org.yaml:snakeyaml:1.30")
   implementation("com.squareup.moshi:moshi:1.13.0")
   implementation("com.squareup.moshi:moshi-kotlin:1.13.0")
-  testImplementation("com.beust:klaxon:5.5")
+  testImplementation("com.beust:klaxon:5.6")
 
   implementation("com.google.re2j:re2j:1.6")
 //    implementation("com.github.fge:json-schema-validator:2.2.6")
